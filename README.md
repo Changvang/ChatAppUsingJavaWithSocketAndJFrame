@@ -4,26 +4,23 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+First run file Server_Stored.java.
+It include information of use(Only login can't sign in).
+(The Ip is antomatic , the port is 10000 with static)
 
 ## Usage
 
-```python
-import foobar
+Run file Client_Test.java. Change serverIp before run (Your ip and your port for you like a peer in net work 
+will auto create)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+Try and Join.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
+All of it from NGUYEN VAN QUYEN LAM. my email : lamquyen99@gmai.com.
+You can using it, not contact me beacause all code i learn from internet and i will forget all.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+Non_license
